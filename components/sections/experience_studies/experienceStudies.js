@@ -36,7 +36,6 @@ export const experienceStudies = () => {
   categoryContainer.appendChild(studiesTitle);
   studiesTitle.appendChild(studiesButton);
 
-  // GENERATE HTML
 
   experienceButton.addEventListener('click', () => {
     // SHOW EXPERIENCE, HIDE ALL STUDIES

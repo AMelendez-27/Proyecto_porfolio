@@ -198,8 +198,6 @@ skillImg('Oracle DBA')
 
 // ----------------------------------------------------------------------------------
 // EXPERIENCE & STUDIES - SECTION
-experienceStudies()
-
 // ADD EXPERIENCE
 addExperience("Systems Technician en Comsa 07/2021 - 09/2023", "Gestión del portal del empleado, y de las bases de datos de la empresa")
 addExperience("Superior Systems Technician (DBA) en Minsait 07/2021 - 09/2023", "Gestión y administración de bases de datos para entidades financieras")
@@ -209,6 +207,10 @@ addStudies("Pàlcam 09/2018 - 07/2020", "Ciclo de superior de administración de
 addStudies("Oracle Academy Online 09/2018 - 07/2020", "Database Design and Programming with SQL")
 addStudies("Oracle Academy Online 09/2018 - 07/2020", "Database Programming with PL/SQL")
 addStudies("Oracle Academy Online 09/2018 - 07/2020", "Java Programming")
+addStudies("ThePower Busines School 01/2024 - 01/2025", "JavaScript Developer")
+addStudies("ThePower Busines School 01/2024 - Cursando", "FullStack Developer")
+
+experienceStudies()
 
 
 // ----------------------------------------------------------------------------------
