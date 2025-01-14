@@ -94,7 +94,7 @@ compactMenu.className = 'header menu-container'
 
 const cMenuIcon = document.createElement('img')
 cMenuIcon.className = 'header menu-icon'
-cMenuIcon.src = '/public/src/menu-icon.png'
+cMenuIcon.src = '/src/menu-icon.png'
 cMenuIcon.alt = 'Imagen botón menú'
 
 const menuMobileWrapper = document.createElement('div')
