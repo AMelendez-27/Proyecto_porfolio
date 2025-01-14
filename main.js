@@ -222,6 +222,7 @@ addProject('PComponentes', "El primer proyecto que hice para practicar el uso de
 addProject('Tienda online JD', "Proyecto recreando la tienda online de la marca JD, hecha solo con html y css")
 addProject('Pinterest', "Proyecto recreando un web tipo pinterest, usando js por primera vez y api's para las imagenes")
 addProject('Porfolio', "Este porfolio está hecho únicamente con js y css, sin escribir código html directamente")
+addProject('Games Hub', "Este proyecto consistía en hacer un portal de juegos, con al menos tres sencillos juegos hechos con JavaScript")
 
 
 // ----------------------------------------------------------------------------------
