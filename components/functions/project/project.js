@@ -12,7 +12,7 @@ export const addProject = (projectName, projectDescContent) => {
       const profileImg = document.createElement('img')
       profileImg.className = 'projects project-card-img'
       profileImg.id = projectName
-      profileImg.src = `/public/src/${projectName}.png`;
+      profileImg.src = `/src/${projectName}.png`;
       profileImg.alt = `Imagen del proyecto ${projectName}`
 
       const projectTitle = document.createElement('h3')

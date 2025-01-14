@@ -12,7 +12,7 @@ export const addLink = (linkNme) => {
       const linkIcon = document.createElement('img')
       linkIcon.className = `footer link-icon`
       linkIcon.id = linkNme
-      linkIcon.src = `/public/src/${linkNme}.png`;
+      linkIcon.src = `/src/${linkNme}.png`;
       linkIcon.alt = `Imagen del logotipo de ${linkNme}`
 
       projectsContainer.appendChild(linkButton)

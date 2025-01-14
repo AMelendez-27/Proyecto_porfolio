@@ -27,7 +27,7 @@ export const hero = () => {
 
   const heroImg = document.createElement('img')
   heroImg.className = 'hero hero-img'
-  heroImg.src = '/public/src/desarrollador-web-profile-img.jpg';
+  heroImg.src = '/src/desarrollador-web-profile-img.jpg';
   heroImg.alt = 'Imagen de Àlex Meléndez Centeno';
 
   // GENERATE HTML
@@ -49,7 +49,7 @@ export const hero = () => {
 
   const heroDesc = document.createElement('p')
   heroDesc.className = 'hero hero-description'
-  heroDesc.textContent = 'Ejemplo. Como desarrollador web, soy responsable de diseñar y desarrollar páginas web. Mi principal enfoque es crear experiencias receptivas y fáciles de usar que satisfagan las necesidades de una audiencia en línea diversa.'
+  heroDesc.textContent = 'Desarrollador web apasionado por la creación de experiencias digitales innovadoras, para quien este campo es tanto un trabajo como un hobby. Disfruto explorando nuevas tecnologías y diseñando soluciones optimizadas que mejoren la interacción usuario-plataforma. Proactivo, adaptable y motivado por aprender y contribuir a equipos y proyectos ágiles de impacto real.'
 
   // GENERATE HTML
   heroSection.appendChild(heroDescContainer)

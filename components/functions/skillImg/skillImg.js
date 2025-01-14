@@ -12,7 +12,7 @@ export const skillImg = (skill) => {
     const profileImg = document.createElement('img')
     profileImg.className = 'skills skill-img'
     profileImg.id = skill
-    profileImg.src = `/public/src/${skill}.png`;
+    profileImg.src = `/src/${skill}.png`;
     profileImg.alt = `Imagen del logotipo de ${skill}`
 
     const skillDesc = document.createElement('p')
